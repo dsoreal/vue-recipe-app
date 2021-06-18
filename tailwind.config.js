@@ -7,7 +7,11 @@ module.exports = {
         'mx-blue-purple' : '#BCB6FF',
         'ur-blue': '#B8E1FF',
         'celeste': '#A9FFF7'
-      }},
+      },
+      minHeight: {
+        '1/4': '25%'
+      }
+    },
   },
   variants: {
     extend: {},
